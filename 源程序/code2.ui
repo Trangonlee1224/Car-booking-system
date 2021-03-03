@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>code2</class>
+ <widget class="QDialog" name="code2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>450</width>
+    <height>457</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#code2{
+	background-image: url(:/resouce/code.png);
+	image: url(:/resouce/code.png);
+	
+	border-image: url(:/resouce/code.png);
+}</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
